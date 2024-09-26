@@ -1,0 +1,6 @@
+@DataProcessingTestForex_HostAddress = http://localhost:5005
+
+GET {{DataProcessingTestForex_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
